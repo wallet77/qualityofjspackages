@@ -42,3 +42,32 @@ Javascript ecosystem has become more and more complex and bigger over time. A lo
 In order to find the best package, we must evaluate them in terms of quality.
 
 ## Inspiration
+
+A few years ago [HTTP archive](https://httparchive.org/) was created to crawl the top sites on the web.  
+They record a lot of information in order to analyze this data to identify trends of the web.  
+This work is useful to anticipate issues we will face in the near future or to change our way of thinking about the web.  
+
+In addition, if something is not analyzed and monitored then it's not visible, and as long as it's hidden we have no power to act on it. This is the main principle behind observability.
+
+This idea of qualityofJSpackages is based on the same concept but only for the smallest pieces of the web. As everything is built with Javascript, it's relevant to analyze the top Javascript packages in order to detect quality issues and trends.
+
+Many thanks to people who work on webperf, or software quality in general, and who have inspired me a lot:
+- Tammy Everts
+- Steve Souders
+- Addy Osmani
+- Ilya Grigorik
+- and many others
+
+## Contributing
+
+As with every open-source project, it needs your help to grow and improve ;)  
+You can help by many ways:
+
+**Crawler**
+- if you know Node.JS and Node.js packages ecosystem
+- if you have any idea about metrics we can collect
+
+**Website**
+- if you know VueJS or apexcharts and want to improve the report visualization
+- if you want to work on the UI/UX
+- if you want to work on translations
