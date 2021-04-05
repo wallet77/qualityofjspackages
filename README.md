@@ -3,7 +3,9 @@
 ## Definition
 This project is an open-source tool which aims to analyze Javascript packages.  
 
-The main idea is to crawl the top most famous Javascript packages and to analyze each of them, in order to produce a global report.
+The main idea is to crawl the top most famous Javascript packages and to analyze each of them, in order to produce a global report.  
+
+Here you can access to the online report: [https://www.qualityofjspackages.com/](https://www.qualityofjspackages.com/)
 
 ## Composition
 This project is composed of:
