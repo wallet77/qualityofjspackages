@@ -73,3 +73,7 @@ You can help by many ways:
 - if you know VueJS or apexcharts and want to improve the report visualization
 - if you want to work on the UI/UX
 - if you want to work on translations
+
+**Mobile**
+- if you want to create an app
+- if you want to work on the responsive design
